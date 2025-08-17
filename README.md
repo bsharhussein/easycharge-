@@ -76,4 +76,4 @@ When running, the program displays a **menu system** that allows you to:
 ---
 
 ## 👨‍💻 Authors
-Developed as part of an academic project for **System Programming in C/C++**.  
+Developed as part of an academic project by Bshar Hussein computer engineering student   
